@@ -1,5 +1,5 @@
 # Public Opinion Analysis on Politics
-**Prediction on Selection by NYT's Editors**
+**## Prediction on Selection by NYT's Editors**
 
 Junqian Zhang - 944556
 
