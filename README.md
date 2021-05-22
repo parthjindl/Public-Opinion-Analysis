@@ -2,6 +2,7 @@
 **Prediction on Selection by NYT's Editors**
 
 Junqian Zhang - 944556
+张俊倩
 
 **Introduction**:
 
