@@ -11,5 +11,5 @@ The Public comment the articles of New York Times to present their opinions, but
 
 Opinion anlysis, Aspect extraction, Sentiment orientation, Text classification
 
-![process](https://user-images.githubusercontent.com/59978350/120182993-659cb980-c20f-11eb-8985-49b4147f1b29.png)
+![process](https://user-images.githubusercontent.com/59978350/120222230-e83d6d00-c23f-11eb-9d80-4d04a5e59f4a.png)
 
